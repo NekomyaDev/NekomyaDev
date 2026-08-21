@@ -1,35 +1,23 @@
-<h1 align="center">NEKOMYA</h1>
+# Hi, I'm NekomyaDev 👋
 
-<p align="center">
-  Building tools for the agentic era — languages, compilers, and infrastructure for LLM agents.
-</p>
+## Featured Project
 
-<p align="center">
-  <a href="https://github.com/NekomyaDev/nudge">
-    <img alt="Nudge" src="https://img.shields.io/badge/Nudge-typed%20%C2%B7%20replayable%20%C2%B7%20budget--aware%20agent%20language-blueviolet">
-  </a>
-  <img alt="Rust" src="https://img.shields.io/badge/focus-Rust%20%C2%B7%20compilers%20%C2%B7%20agents-orange">
-  <img alt="OSS" src="https://img.shields.io/badge/open%20source-MIT-green">
-</p>
+### [Nudge](https://github.com/NekomyaDev/nudge)
 
----
+A typed, replayable, budget-aware programming language for LLM agents.
 
-### Current project
+[![Version](https://img.shields.io/badge/version-1.2.0-blue)](https://github.com/NekomyaDev/nudge/releases)
+[![License](https://img.shields.io/badge/license-Proprietary-red)](https://github.com/NekomyaDev/nudge/blob/main/LICENSE)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Nudge%20Language-007ACC?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Nekomya.nudge-lang)
+[![Docker](https://img.shields.io/badge/Docker-nekomyadev%2Fnudge-blue?logo=docker)](https://hub.docker.com/r/nekomyadev/nudge)
 
-**[Nudge](https://github.com/NekomyaDev/nudge)** — a typed, replayable, budget-aware programming language for LLM agents. Compiler in Rust (zero deps), compiles to Python & TypeScript.
+- Typed LLM calls with schema validation
+- Deterministic replay and trace-based testing
+- Budget contracts for cost control
+- Compiles to Python & TypeScript
+- Zero dependencies, single Rust binary
 
-- Typed LLM calls — output schema is a language type, proven at compile time
-- Deterministic replay — every run emits a trace; every trace replays as a test at zero token cost
-- Budget contracts — per-call USD ceilings enforced by the compiler
-- MCP tools, A2A export, LSP, OpenTelemetry — built in
+## Connect
 
-📖 Write-up: [I got tired of parsing LLM output by hand, so I wrote a programming language for agents](https://dev.to/nekomyadev/i-got-tired-of-parsing-llm-output-by-hand-so-i-wrote-a-programming-language-for-agents-1a9g)
-
-### Elsewhere
-
-- ✍️ [dev.to/nekomyadev](https://dev.to/nekomyadev)
-- 🌐 [daily.dev/nekomyadev](https://app.daily.dev/nekomyadev)
-
-<p align="center">
-  <i>Open to collaboration on agent tooling, compilers, and Rust infrastructure.</i>
-</p>
+- [GitHub](https://github.com/NekomyaDev)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Nekomya.nudge-lang)
