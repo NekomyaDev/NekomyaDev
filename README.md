@@ -10,6 +10,7 @@ A typed, replayable, budget-aware programming language for LLM agents.
 [![License](https://img.shields.io/badge/license-Proprietary-red)](https://github.com/NekomyaDev/nudge/blob/main/LICENSE)
 [![VS Code](https://img.shields.io/badge/VS%20Code-Nudge%20Language-007ACC?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=Nekomya.nudge-lang)
 [![Docker](https://img.shields.io/badge/Docker-nekomyadev%2Fnudge-blue?logo=docker)](https://hub.docker.com/r/nekomyadev/nudge)
+<a href="https://snyk.io"><img alt="Snyk Verified" src="https://img.shields.io/badge/Snyk-Verified%20Secure-4C556A?logo=snyk"></a>
 
 - Typed LLM calls with schema validation
 - Deterministic replay and trace-based testing
